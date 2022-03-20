@@ -16,7 +16,7 @@ Poor time management can result in missed meetings and deadlines or create the a
 This application is compatible with the most commonly used web browsers.
 
 <p align="center">
-    <a href=""><img src="https://img.shields.io/badge/-👉 See Live Site-success?style=for-the-badge"  alt="Live Site" /></a>
+    <a href="https://lniceth.github.io/Work-Day-Planner/"><img src="https://img.shields.io/badge/-👉 See Live Site-success?style=for-the-badge"  alt="Live Site" /></a>
 </p>
 
 ## Usage 

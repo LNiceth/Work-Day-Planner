@@ -17,7 +17,7 @@ function setUpTimedElements() {
     renderTextareaBackground();
 }
 
-// Gets each text area and using the curetn time determines its background color by updating it class list.
+// Gets each text area and using the curent time determines its background color by updating it class list.
 function renderTextareaBackground() {
     let currentHour = parseInt(moment().format("H"));
     $("textarea.form-control").each(function (i) {
