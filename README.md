@@ -20,20 +20,20 @@ This application is compatible with the most commonly used web browsers.
 </p>
 
 ## Usage 
-
+ 
 ### Screenshots
 
 1. Site 
 
-![Site](assets/images/site-image.png)
+![Site](assets/images/site-image.jpg)
 
 1. Local Memory 
 
-![Local Memory](assets/images/local-memory.png)
+![Local Memory](assets/images/local-memory.jpg)
 
 1. Color-Coding
 
-![Color-coding](assets/images/color-coding.png)
+![Color-coding](assets/images/color-coding.jpg)
 
 
 ### Snippets
